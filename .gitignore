@@ -115,3 +115,5 @@ appPackage/build
 env/.env.testtool
 .localConfigs.testTool
 devTools/
+env/.env.dev
+env/.env.staging
